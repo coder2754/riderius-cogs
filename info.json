@@ -1,6 +1,6 @@
 {
     "author" : ["riderius"],
-    "install_msg" : "Thx for download riderius-cogs.\nReport bugs to <~riderius/public-inbox@lists.sr.ht>\n",
+    "install_msg" : "Thx for download riderius-cogs. Report bugs to <~riderius/public-inbox@lists.sr.ht>\n",
     "name" : "riderius-cogs",
     "short" : "riderius cogs",
     "description" : "riderius-cogs"
