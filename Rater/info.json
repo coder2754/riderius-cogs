@@ -1,0 +1,8 @@
+{
+    "author" : ["riderius"],
+    "install_msg" : "You've loaded Rater cog.\nUse `[p]start_rating {message id}` for create a message rating",
+    "name" : "Rater",
+    "short" : "Creates rating",
+    "description" : "Create a rating for a message"
+}
+
