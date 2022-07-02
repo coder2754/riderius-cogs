@@ -9,7 +9,10 @@ class Rater(commands.Cog):
         self.bot = bot
 
     @commands.command()
+    @commands.guild_only()
     async def start_rating(self, ctx, message_id: int):
+        """Create a rating for a message"""
+
         message = await ctx.fetch_message(message_id)
         await message.add_reaction("\u2795")
         await asyncio.sleep(0.5)
