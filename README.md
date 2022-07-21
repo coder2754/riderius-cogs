@@ -25,3 +25,6 @@ To install use:
 [p]cog install riderius-cogs Randomizer
 [p]load Randomizer
 ```
+
+## Contributing
+Send patches/bugs to the [mailing list](https://lists.sr.ht/~riderius/public-inbox).
