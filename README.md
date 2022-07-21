@@ -16,3 +16,12 @@ To install use:
 [p]cog install riderius-cogs Rater
 [p]load Rater
 ```
+### Randomizer
+Cog send a random integer N such that a <= N <= b..
+
+To install use:
+
+```
+[p]cog install riderius-cogs Randomizer
+[p]load Randomizer
+```
