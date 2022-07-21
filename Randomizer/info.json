@@ -1,6 +1,6 @@
 {
     "author" : ["riderius"],
-    "install_msg" : "You've installed the Randomizer cog. Use '[p]random {a} {b}' for get a random integer N such that a <= N <= b.",
+    "install_msg" : "You've installed the Randomizer cog. Use `[p]random {a} {b}` for get a random integer N such that a <= N <= b.",
     "name" : "Randomizer",
     "short" : "Send a random integer N.",
     "description" : "Send a random integer N."
