@@ -3,7 +3,7 @@ import random
 from redbot.core import commands
 
 
-class Rater(commands.Cog):
+class Randomizer(commands.Cog):
 
     def __init__(self, bot):
         self.bot = bot
