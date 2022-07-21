@@ -1,0 +1,8 @@
+{
+    "author" : ["riderius"],
+    "install_msg" : "You've installed the Stat cog. See `[p]help`.",
+    "name" : "Stat",
+    "short" : "User statistics",
+    "description" : "Send user statistics."
+}
+

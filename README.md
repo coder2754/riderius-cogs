@@ -20,11 +20,18 @@ To install use:
 Cog send a random integer N such that a <= N <= b..
 
 To install use:
-
 ```
 [p]cog install riderius-cogs Randomizer
 [p]load Randomizer
 ```
 
+### Stat
+Cog send user statistics.
+
+To install use:
+```
+[p]cog install riderius-cogs Stat
+[p]load Stat
+```
 ## Contributing
 Send patches/bugs to the [mailing list](https://lists.sr.ht/~riderius/public-inbox).
