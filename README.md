@@ -17,7 +17,7 @@ To install use:
 [p]load Rater
 ```
 ### Randomizer
-Cog send a random integer N such that a <= N <= b..
+Cog send a random integer N such that a <= N <= b.
 
 To install use:
 ```
