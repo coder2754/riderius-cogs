@@ -29,4 +29,7 @@ class Rater(commands.Cog):
         await message.add_reaction("\u2795")
         await asyncio.sleep(0.5)
         await message.add_reaction("\u2796")
-        await ctx.message.delete()
+        try:
+            await ctx.message.delete()
+        except discord.NotFound:
+            pass
