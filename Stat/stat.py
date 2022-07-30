@@ -9,6 +9,7 @@ class Stat(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
+    @commands.guild_only()
     @commands.command()
     async def avatar(self, ctx, member: discord.Member = None):
         """Get Discord user avatar"""
